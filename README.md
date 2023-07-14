@@ -2,9 +2,6 @@
   <h1>Grapevine Leaves Image Identification</h1>
 </div>
 
-### Collab file link
-https://colab.research.google.com/drive/1uvJgUjzR0JufSJ5mqg8qEkepZH6kQsNV?usp=sharing
-
 ### Goal
 The goal of this project is to create a deep learning model to classify GrapeVine Leaves.
 
@@ -40,3 +37,7 @@ The dataset for this project is taken from the Kaggle. Here is the link for the 
 
 ### Model 3 - Transfer Learning:
 ![Dataset Image](Images/Transfer%20Learning.png)
+
+
+### Collab file link
+https://colab.research.google.com/drive/1uvJgUjzR0JufSJ5mqg8qEkepZH6kQsNV?usp=sharing
