@@ -38,6 +38,5 @@ The dataset for this project is taken from the Kaggle. Here is the link for the 
 ### Model 3 - Transfer Learning:
 ![Dataset Image](Images/Transfer%20Learning.png)
 
-
-### Collab file link
+### Colab file link
 https://colab.research.google.com/drive/1uvJgUjzR0JufSJ5mqg8qEkepZH6kQsNV?usp=sharing
